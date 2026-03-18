@@ -25,5 +25,3 @@ Experienced in designing, building, and operating cloud-native services with an 
 
 ## Contact
 - Email: github.com.hurling683@passmail.com
-
-![GitHub Stats](./profile/stats.svg)
